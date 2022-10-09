@@ -35,6 +35,11 @@ section {
   margin-bottom: 96px;
 }
 
+h4{
+	text-align: left;
+color: #087f5b;
+}
+
 h2 {
   margin-bottom: 48px;
   /* 24 / 30 / 36 */
